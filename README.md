@@ -2,10 +2,6 @@
 
 Below is a README file tailored for your GitHub repository, describing the Image Upscaling project using the Residual in Residual Dense Network (RRDN), a type of Generative Adversarial Network (GAN). The README is written in Markdown and includes sections for project description, installation, usage, and other relevant details.
 
-
-
-# Image Upscaling Using Generative Adversarial Network (RRDN)
-
 This repository contains a PyTorch implementation of the **Residual in Residual Dense Network (RRDN)**, a deep learning model based on Generative Adversarial Networks (GANs) designed for high-quality image super-resolution. The model upscales low-resolution images to higher resolutions (e.g., 4x upscaling) while preserving fine details and textures.
 
 ## Project Overview
