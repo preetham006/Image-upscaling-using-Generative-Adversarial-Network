@@ -138,5 +138,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please open an issue on the [GitHub repository](https://github.com/preetham006/Image-upscaling-using-Generative-Adversarial-Network) or contact the maintainer at [your-email@example.com].
+For questions or suggestions, please open an issue on the [GitHub repository](https://github.com/preetham006/Image-upscaling-using-Generative-Adversarial-Network) or contact the maintainer at 
+[Mail : preethamkarthik7386@gmail.com].
 
